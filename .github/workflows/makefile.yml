@@ -1,4 +1,4 @@
-name: Build gaster
+name: Build gasterr
 
 on:
   push:
